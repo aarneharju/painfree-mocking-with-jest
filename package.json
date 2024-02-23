@@ -1,0 +1,14 @@
+{
+  "name": "painfree-mocking-with-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aarne Harju",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
